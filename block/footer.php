@@ -31,16 +31,13 @@
 <div class="hotline-wrapper">
 	<div class="social-networks-block"><p class="mc__block">Social	networks</p>
   <div class="social__wrapper">
-		<a class="social-networks-item" href="https://www.facebook.com/silpo/"><img src="img/tw.png" alt=""></a>
-		<a class="social-networks-item" href="https://t.me/silposilpo"><img src="img/in.png" alt=""></a>
-		<a class="social-networks-item" href="https://invite.viber.com/?g2=AQAt15SGGIlJkUpcckQJ1mAV5nsCAESEJ6JHLm0UCKWWPGQtSUDjRrHVW8Lmj4Xd" ><img src="img/f.png" alt=""></a>
-		<a class="social-networks-item" href="https://www.instagram.com/silpoua" ><img src="img/i.png" alt=""></a>
+		<a class="social-networks-item" href=""><img src="img/tw.png" alt=""></a>
+		<a class="social-networks-item" href=""><img src="img/in.png" alt=""></a>
+		<a class="social-networks-item" href="" ><img src="img/f.png" alt=""></a>
+		<a class="social-networks-item" href="" ><img src="img/i.png" alt=""></a>
 </div></div> </div></div>
 <div class="copyrights">
-
- <a href=""	class="menu__copy">Terms	of	service</a>
- <a href=""	class="menu__copy">Privacy policy</a>
- </div>
-
-
+<a href=""	class="menu__copy">Terms	of	service</a>
+<a href=""	class="menu__copy">Privacy policy</a>
+</div>
 </footer>
