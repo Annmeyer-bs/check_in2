@@ -45,6 +45,7 @@ body{
 	background-size: 100%;
 	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
+	min-width:1440px;
 }
 a{
 	color: black;
