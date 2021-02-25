@@ -6,7 +6,6 @@
   <li><a href=""	class="menu__link">Home</a></li>
   <li><a href=""	class="menu__link2">Courses<img src="img/4.png" alt=""></a>
   <div class="menulink__cours">
-  
   <ul>
   <li><a href=""	class="menu__courseslink">Project	management</a></li>
   <li><a href=""	class="menu__courseslink">Android	developer</a></li>
@@ -18,7 +17,6 @@
   <li><a href=""	class="menu__link">Video</a></li>
   <li><a href=""	class="menu__link2">Interesting<img src="img/4.png" alt=""></a>
   <div class="menulink__cours">
-  
   <ul>
   <li><a href=""	class="menu__courseslink2">Blog</a></li>
   <li><a href=""	class="menu__courseslink2">Youtube</a></li>
