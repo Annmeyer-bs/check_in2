@@ -37,10 +37,7 @@
 		<a class="social-networks-item" href="" ><img src="img/i.png" alt=""></a>
 </div></div> </div></div>
 <div class="copyrights">
-
- <a href=""	class="menu__copy">Terms	of	service</a>
- <a href=""	class="menu__copy">Privacy policy</a>
- </div>
-
-
+<a href=""	class="menu__copy">Terms	of	service</a>
+<a href=""	class="menu__copy">Privacy policy</a>
+</div>
 </footer>
