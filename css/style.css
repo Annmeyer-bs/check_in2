@@ -44,14 +44,14 @@ body{
 	
 	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
-	min-width: 1440px;
+	
 }
 a{
 	color: black;
 }
 .container{
 	align-items: center;
-	max-width: 100%;
+	max-width: 1440px;
 	background: url(../img/2.png)	no-repeat	scroll;
 	background-size: 100%;
 }
@@ -94,7 +94,7 @@ margin-left: 435px;
 
 }
 form{
-	margin:  0	auto;
+	margin:  55px	455px	80px	450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -195,7 +195,7 @@ padding-top: 14px;
 }
 .hotline-wrapper	a{
 
-	margin-right: 0.2%;
+	margin-right: 20px;
 }
 .social__wrapper{
 	margin-top: 35px;
@@ -209,7 +209,6 @@ padding-top: 14px;
 border-radius: 5px;
 	position: absolute;
 	top: 88%;
-	left:0;
 	margin-top: 20px;
 	padding-top: 20px;
 	background-color: white;
@@ -245,31 +244,59 @@ li:hover	.menulink__cours{
 
 @media(max-width:1425px){
 	.container{
-		max-width: 1180px;}
-
-	
+		max-width: 100%;}
+	.menu__list	button{
+			margin-left: 110px;	
+		}
+	form{
+		margin:	30px	300px;
+		}
+		.menu__list{
+			margin: 1px;
+		}
 }
 @media(max-width:1200px){
 	.container{
-		max-width: 999px;}
-		
+		max-width: 100%;}
+		.menu__list	button{
+			margin-left: 35px;	
+		}
 }
-@media(max-width:1011px){
+@media(max-width:995px){
 	.container{
-	max-width: 724px;}
-
+	max-width: 100%;}
+	form{
+		margin:	30px	150px;
+		}
 		.menu__list{
 			display: none;
 		}
 }
-@media(max-width:760px){
+@media(max-width:700px){
 	.container{
-	max-width: 540px;}
+	max-width: 100%;}
+	form{
+		margin:	30px	30px;
+		}
+		.header__logo{
+			margin: 0	0	0	50px;
+			
+		}
 		
 }
-@media(max-width:568px){
+@media(max-width:500px){
 	.container{
-	max-width: 325px;}
+	max-width: 100%;}
+	form{
+		margin:	10px	10px;
+		}
 	
 }
-
+@media(max-width:320px){
+	.container{
+	max-width: 100%;}
+	form{
+		margin:	5px;
+		}
+	
+}
