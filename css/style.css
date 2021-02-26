@@ -239,3 +239,32 @@ li:hover	.menulink__cours{
 .menu__list	img{
 	padding-left: 5px;
 }
+@media(max-width:1425px){
+	.container{
+		max-width: 1180px;}
+
+	
+}
+@media(max-width:1200px){
+	.container{
+		max-width: 999px;}
+		
+}
+@media(max-width:1011px){
+	.container{
+	max-width: 724px;}
+
+		.menu__list{
+			display: none;
+		}
+}
+@media(max-width:760px){
+	.container{
+	max-width: 540px;}
+		
+}
+@media(max-width:568px){
+	.container{
+	max-width: 325px;}
+	
+}
