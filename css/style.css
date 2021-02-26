@@ -42,6 +42,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 body{
 	background: url(../img/2.png)	no-repeat	scroll;
+	background-size: 100%;
 	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
 	min-width:1440px;
@@ -92,7 +93,7 @@ margin-left: 435px;
 
 }
 form{
-	margin:  55px	455px	80px	450px;
+	margin:  0	auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
